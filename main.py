@@ -75,11 +75,15 @@ class JapaneseTemplateParser:
             :param field_number:
             :return:
         """
+
         template_split = self.template.split("##")
+
         header, content = template_split[field_number].split("---")
+
         parsing_results = dict()
 
         for row in content.split("-"):
+
             japanese, english = RE_JAPANESE.findall(row), RE_ENGLISH.findall(row)
             if japanese or english:
                 kanji = RE_PARENTHESIS.sub("", "".join(japanese))
@@ -144,6 +148,7 @@ class JapaneseTemplateParser:
         Returns:
             dict: The parsed noun content.
         """
+
         noun_content = self.__field_parser(4)
 
         return noun_content
@@ -301,5 +306,5 @@ class JapaneseTemplateParser:
 if __name__ == "__main__":
     file_name = "incoming/incoming.md"
 
-    parser = JapaneseTemplateParser(note_file=file_name, date="25.19.2444")
+    parser = JapaneseTemplateParser(note_file=file_name, date="29.10.2024a")
     parser.generate_csv_file()
