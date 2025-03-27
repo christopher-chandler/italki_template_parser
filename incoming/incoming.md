@@ -1,22 +1,16 @@
 ## レッスンのまとめ
 
-今日はハロウィンの話と、クリストファーさんがドイツに住み始めた時の話をしました。
+今日は、月末の手の手術の話や、日本旅行の話、将来のドイツの話、座右の銘などについて話しました。
+⭐️〜そうだ：予測するときに使えます。e.g.　世界の経済は良くなり**そうだ**
+⭐️「間違えnoun」　と「間違えるverb」
 
 ## フィードバック
 
-⭐️「〜によると」と「〜にとって」がたまに混ざってしまうことがあるので注意です。
-
-〜によると
-
-- **意味**: 情報のsource（誰かや何かの話では…）According to (shows the source of information).
-
-→天気予報**によると**、明日は雨です。**According to** the weather forecast, it will rain tomorrow.
-
-〜にとって
-
-- **意味**: 誰かにとっての意見や状況（その人にとっては…）For (expresses someone's perspective or opinion).
-
-→私**にとって**、旅行はとても楽しいです。**For** me, traveling is very fun.
+- 「考えるだけでドキドキする」　会話の中で自然にこのフレーズを使えていてびっくりしました。とても良かったです：）
+そして、「〇〇がち」もとてもいいタイミングで使えていて良かったです！
+両方、とても自然なタイミングで上手に使えていました：）
+- 「〜にとって」と「〜によって」をたまに間違えてしまう癖があるので、そこだけ気をつけましょう
+- 前回の授業で話した「それより」もいいタイミングで使えていました👍👍
 
 ## 問題点
 
@@ -24,12 +18,17 @@
 
 ---
 
-- 寝不足（ねぶそく）  lack of sleep or sleep deprivation
-- 電子機器（でんしきき）  electronic devices
-- 電化製品（でんかせいひん）  electrical appliances
-- 違和感（いわかん）  a sense of discomfort or a feeling that something is wrong
-- 建設業（けんせつぎょう）  the construction industry
-- 大きな夢（おおきなゆめ）  a big dream or a great dream
+- **手術(しゅじゅつ)**: surgery / surgical operation
+- **痛み(いたみ)**: pain / ache
+- **利き手(ききて)**: main hand / dominant hand
+- **右利き(みぎきき)**: right-handed
+- **北欧(ほくおう)**: Scandinavia / Northern Europe
+- **かぼちゃ**: pumpkin 🎃
+- **経済(けいざい)**: economy / economics
+- **修士(しゅうし)**: master's degree
+- **座右の銘(ざゆうのめい)**: a motto
+- **四字熟語(よじじゅくご)**: four-character idioms
+- **間違え**: mistake / error
 
 ## 形容詞
 
@@ -39,9 +38,9 @@
 
 ---
 
-- 年を取る（としをとる）  to grow older or to age
-- 世話をする（せわをする）  to take care of or to look after
-- 乗り越える（のりこえる）  to overcome or to get over
+- **支配する(しはいする)**: to dominate / to control / to govern
+- **ほほえむ**: to smile
+- **間違える(まちがえる)**: to make a mistake
 
 ## 形容動詞
 
@@ -51,8 +50,6 @@
 
 ---
 
-- 個人的に(こじんてき)に: personally
-
 ## オノマトペ
 
 ---
@@ -61,23 +58,18 @@
 
 ---
 
-- Facebookによると、10年前です。(フェイスブックによると、じゅうねんまえです。),According to Facebook, it was 10 years ago.
-- 他の人にびっくりしてほしいと思っています。(ほかのひとにびっくりしてほしいとおもっています。),I want to surprise other people.
-- 簡単な言葉しかわからなかった。(かんたんなことばしかわからなかった。),I could only understand simple words.
-- 大変な時期を乗り越える(たいへんなじきをのりこえる),to overcome a difficult time
-- アメリカの生活から逃げたかった(アメリカのせいかつからにげたかった),I wanted to escape life in America.
-- 違和感があった。(いわかんがあった。),There was a sense of discomfort.
-- 誰も歳を取りたいと思っていない。(だれもとしをとりたいとおもっていない),No one wants to grow older.
-- 赤ちゃんのお世話をする(あかちゃんのおせわをする),to take care of a baby
-- 大変な時期を乗り越える(たいへんなじきをのりこえる),to overcome a difficult time
-- 今日は寝不足です。(きょうはねぶそくです。),I'm sleepdeprived today.
+- **まだちゃんと決めていないけど、〜〜したいな。**: *I haven’t decided properly yet, but I’d like to ~~.*
+- **これから世界は良くなり**そうだ。: *It seems like the world will get better from now on.*
+- **あのレストランのケーキはおいしい**そうだ。: *I heard that the cakes at that restaurant are delicious.*
+- **このケーキはおいし**そうだ。: *This cake looks delicious.*
+- **「人生は思うようにいかない」　「思い通りに行かない」**: *"Life doesn’t go as you think it will." "Things don’t go as planned."*
+- **私は右利きです。**: I am right-handed.
+- **間違えがあります。**: There is a mistake.
+- **たまに間違えます。**: I sometimes make mistakes.
 
 ## 表現
 
 ---
-
-- 無事に誕生日を迎えられることはうれしいこと(ぶじにたんじょうびをむかえられることはうれしいこと),It is a happy thing to be able to celebrate my birthday safely.
-- ドイツに来たばかりの時はどうだった？(ドイツにきたばかりのときはどうだった？),How was it when you just came to Germany?
 
 ## 文法
 

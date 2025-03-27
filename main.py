@@ -306,5 +306,5 @@ class JapaneseTemplateParser:
 if __name__ == "__main__":
     file_name = "incoming/incoming.md"
 
-    parser = JapaneseTemplateParser(note_file=file_name, date="29.10.2024a")
+    parser = JapaneseTemplateParser(note_file=file_name, date="12.11.2024")
     parser.generate_csv_file()
